@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/09/05/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>关于我的第一篇博客|个人介绍|about me</title>
-    <url>/2023/09/06/1/</url>
-    <content><![CDATA[]]></content>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>我的第一篇博客|About me</title>
+      <link href="/2023/09/06/1/"/>
+      <url>/2023/09/06/1/</url>
+      
+        <content type="html"><![CDATA[<p>Hello, welcome to my first blog!</p><h1 id="Brief-introduction"><a href="#Brief-introduction" class="headerlink" title="Brief introduction"></a>Brief introduction</h1><p>我是一名<del>大六</del>“大二”的<del>老学姐</del>小菜鸟，本科读的日语专业，2022年在上海某外企参与了一段搬砖实习后，毅然决然读二学士转码了。</p><h1 id="Achievements-and-skills"><a href="#Achievements-and-skills" class="headerlink" title="Achievements and skills"></a>Achievements and skills</h1><blockquote><p>Language is bridge of communication, not only to human, but also computer.</p></blockquote><h2 id="自然语言"><a href="#自然语言" class="headerlink" title="自然语言"></a>自然语言</h2><ul><li>CET6</li><li>IELTS 6.5(6)</li><li>日本語能力試験N1</li><li>日语专八</li></ul><h2 id="计算机语言"><a href="#计算机语言" class="headerlink" title="计算机语言"></a>计算机语言</h2><blockquote><p>我是菜菜，但在努力学习🐱‍💻</p></blockquote><ul><li>Java (了解)</li><li>Python (了解)</li><li>前端三件套 (了解)</li></ul><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><blockquote><p>要认真学习，也要热爱生活。ଘ(੭ˊᵕˋ)੭</p></blockquote><ul><li>钢琴</li><li>烘培</li><li>plog</li></ul><p>简单来说，我是一个兴趣爱好广泛但没有一项特别突出的仰卧起坐选手。目前代码能力很弱，自学了一点Java，上学期学了点HTML，CSS，JS，Python这学期在接触。总之，还需要补很多很多东西😥</p><h1 id="Future-plan"><a href="#Future-plan" class="headerlink" title="Future plan"></a>Future plan</h1><blockquote><p>After all, tomorrow is another day.<br>虽然比同学们多活了2、3年，但依旧不知道自己想要什么，反而觉得人越长大越迷茫。<br>本科做了很多规划，但却因为疫情&#x2F;经济&#x2F;个人经历经常做出改变和调整。现在更加坚信一句话：<strong>人生是旷野。</strong>🌄<br>目前的计划是：尽所能刷高绩点，有机会的话去读个水硕。</p></blockquote>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>

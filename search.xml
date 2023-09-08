@@ -1,53 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>我的第一篇博客 | About me</title>
-    <url>/2023/09/06/1/</url>
-    <content><![CDATA[<p>Hello, welcome to my first blog!</p>
-<h1 id="Brief-introduction"><a href="#Brief-introduction" class="headerlink" title="Brief introduction"></a>Brief introduction</h1><p>我是一名<del>大六</del>“大二”的<del>老学姐</del>小菜鸟，本科读的日语专业，2022年在上海某外企参与了一段搬砖实习后，毅然决然读二学士转码了。<br><img src="/2023/09/06/1/selfie.jpg#pic_center" alt="selfie"><br><img src="/2023/09/06/1/selfie.jpg#pic_center" alt="test" style="zoom:25%;"></p>
-<h1 id="skills"><a href="#skills" class="headerlink" title="skills"></a>skills</h1><blockquote>
-<p>Language is the bridge of communication, not only for humans, but also for computers.</p>
-</blockquote>
-<h2 id="自然语言"><a href="#自然语言" class="headerlink" title="自然语言"></a>自然语言</h2><ul>
-<li>CET6</li>
-<li>IELTS 6.5(6)</li>
-<li>日本語能力試験N1</li>
-<li>日语专八</li>
-</ul>
-<h2 id="计算机语言"><a href="#计算机语言" class="headerlink" title="计算机语言"></a>计算机语言</h2><blockquote>
-<p>我是菜菜，但在努力学习🐱‍💻</p>
-</blockquote>
-<ul>
-<li>Java (了解)</li>
-<li>Python (了解)</li>
-<li>前端三件套 (了解)</li>
-</ul>
-<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><blockquote>
-<p>要认真学习，也要热爱生活。ଘ(੭ˊᵕˋ)੭</p>
-</blockquote>
-<ul>
-<li>钢琴</li>
-<li>烘培</li>
-</ul>
-<p><img src="/2023/09/06/1/bakery.jpg#pic_center" alt="草莓蛋糕"></p>
-<p>简单来说，我是一个兴趣爱好广泛但没有一项特别突出的<strong>仰卧起坐选手</strong>。目前代码能力很弱，自学了一点Java，上学期为了搭前端学了点HTML，CSS，JS，Python这学期在接触。总之，还需要补很多很多东西😥<br><img src="/2023/09/06/1/%E8%A1%A8%E6%83%852.jpg"></p>
-<h1 id="Achievements"><a href="#Achievements" class="headerlink" title="Achievements"></a>Achievements</h1><p>目前还是吃老本。本科的时候能拿奖学金抚慰一下期末复习，算是一个品学兼优的好孩子<del>爱玩的混子</del>。</p>
-<blockquote>
-<p>学习</p>
-</blockquote>
-<p>以前挺认真卷学习的，拿了保研资格（又放弃了，感觉不是自己想要的。）<br><em>其实我觉得我只是会考试，并不能说会日语…</em></p>
-<blockquote>
-<p>实习工作</p>
-</blockquote>
-<p>原来走的是运营&#x2F;市场方向，有过3段相关实习。一段互联网，一段地产（anyway已经倒闭了），一段咨询。<br>属于是行业“冥”灯，走什么方向什么方向就会没落hhh。（计算机的同学们你们小心了哦，狗头.jpg）<br><img src="/2023/09/06/1/Shanghai.jpg#pic_center" alt="3月份的静安公园"><br>在上海的实习印象尤为深刻，那段日子特别的有趣神奇。被迫在出租房里蹲守抢菜，一个能够用已知食材生成多样菜谱转跳b站教程的web让我觉得计算机真实用哇，促使我转码。<br><img src="/2023/09/06/1/cooking.jpg#pic_center"><br><img src="/2023/09/06/1/cooking1.jpg#pic_center"><br><img src="/2023/09/06/1/cooking2.jpg#pic_center"><br><img src="/2023/09/06/1/cooking3.jpg#pic_center"></p>
-<blockquote>
-<p>社团活动</p>
-</blockquote>
-<p>校合唱团呆了两年<br>志愿者活动<br>各种大大小小的比赛<br>在校工会写了好多篇微信推文赚点小外快<br><img src="/2023/09/06/1/culturalfestival.jpg#pic_center" alt="文化节"><br><img src="/2023/09/06/1/volunteer.jpg#pic_center" alt="618海创"></p>
-<h1 id="Future-plan"><a href="#Future-plan" class="headerlink" title="Future plan"></a>Future plan</h1><blockquote>
-<p>After all, tomorrow is another day.</p>
-</blockquote>
-<p>虽然比同学们多活了2、3年，但依旧不知道自己想要什么，反而觉得人越长大越迷茫。<br>本科做了很多规划，但却因为疫情&#x2F;经济&#x2F;个人经历经常做出改变和调整。现在更加坚信一句话：<strong>人生是旷野</strong>🌄<br>目前的计划是：尽所能刷高绩点，有机会的话去读个水硕，看看世界。</p>
-]]></content>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>我的第一篇博客 | About me</title>
+      <link href="/2023/09/06/1/"/>
+      <url>/2023/09/06/1/</url>
+      
+        <content type="html"><![CDATA[<p>Hello, welcome to my first blog!</p><h1 id="Brief-introduction"><a href="#Brief-introduction" class="headerlink" title="Brief introduction"></a>Brief introduction</h1><p>我是一名<del>大六</del>“大二”的<del>老学姐</del>小菜鸟，本科读的日语专业，2022年在上海某外企参与了一段搬砖实习后，毅然决然读二学士转码了。<br><img src="/2023/09/06/1/selfie.jpg#pic_center" alt="Hello！这就是老学姐的模样" style="zoom:30%;"></p><h1 id="skills"><a href="#skills" class="headerlink" title="skills"></a>skills</h1><blockquote><p>Language is the bridge of communication, not only for humans, but also for computers.</p></blockquote><h2 id="自然语言"><a href="#自然语言" class="headerlink" title="自然语言"></a>自然语言</h2><ul><li>CET6</li><li>IELTS 6.5(6)</li><li>日本語能力試験N1</li><li>日语专八</li></ul><h2 id="计算机语言"><a href="#计算机语言" class="headerlink" title="计算机语言"></a>计算机语言</h2><blockquote><p>我是菜菜，但在努力学习🐱‍💻</p></blockquote><ul><li>Java (了解)</li><li>Python (了解)</li><li>前端三件套 (了解)</li></ul><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><blockquote><p>要认真学习，也要热爱生活。ଘ(੭ˊᵕˋ)੭</p></blockquote><ul><li>钢琴</li><li>烘培</li></ul><div><!--块级封装-->    <center><!--将图片和文字居中-->    <img src="/2023/09/06/1/bakery.jpg#pic_center" alt="草莓蛋糕" style="zoom:15%;">    <!-- <br>换行 -->    今年圣诞做的草莓纸杯蛋糕🍓<!--标题-->    </center></div><br><p>简单来说，我是一个兴趣爱好广泛但没有一项特别突出的<strong>仰卧起坐选手</strong>。目前代码能力很弱，自学了一点Java，上学期为了搭前端学了点HTML，CSS，JS，Python这学期在接触。总之，还需要补很多很多东西😥</p><p><img src="/2023/09/06/1/表情2.jpg" alt="我是菜菜" style="zoom:30%;"></p><h1 id="Achievements"><a href="#Achievements" class="headerlink" title="Achievements"></a>Achievements</h1><p>目前还是吃老本。本科的时候能拿奖学金抚慰一下期末复习，算是一个品学兼优的好孩子<del>爱玩的混子</del>。</p><h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><p>以前挺认真卷学习的，拿了保研资格（又放弃了，感觉不是自己想要的。）<br><font color="MediumPurple" size="1">其实我觉得我只是会考试，并不能说很会日语…</font></p><h2 id="实习工作"><a href="#实习工作" class="headerlink" title="实习工作"></a>实习工作</h2><p>原来走的是运营&#x2F;市场方向，有过3段相关实习。一段互联网，一段地产（anyway已经倒闭了），一段咨询。<br>属于是行业“冥”灯，走什么方向什么方向就会没落hhh。（计算机的同学们你们小心了哦，狗头.jpg）</p><div><!--块级封装-->    <center><!--将图片和文字居中-->    <img src="/2023/09/06/1/Shanghai.jpg#pic_center.jpg#pic_center" alt="3月份的静安公园" style="zoom:30%">    <!-- <br>换行 -->    22年3月还没封控的上海-静安公园<!--标题-->    </center></div><br><p>在上海的实习印象尤为深刻，那段日子特别的有趣神奇。被迫在出租房里蹲守抢菜，一个能够用已知食材生成多样菜谱转跳b站教程的web让我觉得计算机真实用哇，促使我转码。</p><table frame="void">    <tr>    <td><center><img src="/2023/09/06/1/cooking.jpg#pic_center" alt="cooking" height="300"></center></td>    <td><center><img src="/2023/09/06/1/cooking1.jpg#pic_center" alt="cooking1" height="300"></center></td>    </tr>    <tr><!--第二行-->    <td><center><img src="/2023/09/06/1/cooking2.jpg#pic_center" alt="cooking2" height="300"></center></td>    <td><center><img src="/2023/09/06/1/cooking3.jpg#pic_center" alt="cooking3" height="300"></center></td>    </tr></table><h2 id="社团活动"><a href="#社团活动" class="headerlink" title="社团活动"></a>社团活动</h2><p>校合唱团呆了两年<br>志愿者活动<br>各种大大小小的比赛<br>在校工会写了好多篇微信推文（赚点小外快）</p><div><!--块级封装-->    <center><!--将图片和文字居中-->    <img src="/2023/09/06/1/culturalfestival.jpg#pic_center" alt="文化节" style="zoom:30%">    <!-- <br>换行 -->    大二主持了中日艺术文化节<!--标题-->    </center></div><br><div><!--块级封装-->    <center><!--将图片和文字居中-->    <img src="/2023/09/06/1/volunteer.jpg#pic_center" alt="618海创" style="zoom:30%">    <!-- <br>换行 -->    和研究生学长学姐们一起参加海创<!--标题-->    </center></div><h1 id="Future-plan"><a href="#Future-plan" class="headerlink" title="Future plan"></a>Future plan</h1><blockquote><p>After all, tomorrow is another day.</p></blockquote><p>虽然比同学们多活了2、3年，但依旧不知道自己想要什么，反而觉得人越长大越迷茫。<br>本科做了很多规划，但却因为疫情&#x2F;经济&#x2F;个人经历经常做出改变和调整。现在更加坚信一句话：<strong>人生是旷野</strong>🌄<br>目前的计划是：尽所能刷高绩点，有机会的话去读个水硕，看看世界。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>

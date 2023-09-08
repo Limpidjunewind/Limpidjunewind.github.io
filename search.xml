@@ -4,7 +4,7 @@
     <title>我的第一篇博客 | About me</title>
     <url>/2023/09/06/1/</url>
     <content><![CDATA[<p>Hello, welcome to my first blog!</p>
-<h1 id="Brief-introduction"><a href="#Brief-introduction" class="headerlink" title="Brief introduction"></a>Brief introduction</h1><p>我是一名<del>大六</del>“大二”的<del>老学姐</del>小菜鸟，本科读的日语专业，2022年在上海某外企参与了一段搬砖实习后，毅然决然读二学士转码了。<br><a href="../imgs/selfie.jpg#pic_center">selfie</a></p>
+<h1 id="Brief-introduction"><a href="#Brief-introduction" class="headerlink" title="Brief introduction"></a>Brief introduction</h1><p>我是一名<del>大六</del>“大二”的<del>老学姐</del>小菜鸟，本科读的日语专业，2022年在上海某外企参与了一段搬砖实习后，毅然决然读二学士转码了。<br><img src="/2023/09/06/1/selfie.jpg#pic_center" alt="selfie"></p>
 <h1 id="skills"><a href="#skills" class="headerlink" title="skills"></a>skills</h1><blockquote>
 <p>Language is the bridge of communication, not only for humans, but also for computers.</p>
 </blockquote>
@@ -27,23 +27,32 @@
 </blockquote>
 <ul>
 <li>钢琴</li>
-<li>烘培<br><a href="../imgs/bakery.jpg#pic_center">草莓蛋糕</a></li>
+<li>烘培<br><img src="/2023/09/06/1/bakery.jpg#pic_center" alt="草莓蛋糕"></li>
 </ul>
-<p>简单来说，我是一个兴趣爱好广泛但没有一项特别突出的<strong>仰卧起坐选手</strong>。目前代码能力很弱，自学了一点Java，上学期为了搭前端学了点HTML，CSS，JS，Python这学期在接触。总之，还需要补很多很多东西😥<br><a href="../imgs/%E8%A1%A8%E6%83%852.jpg"></a></p>
-<h1 id="Achievement"><a href="#Achievement" class="headerlink" title="Achievement"></a>Achievement</h1><p>目前还是吃老本。本科的时候能拿奖学金抚慰一下期末复习，算是一个品学兼优的好孩子<del>爱玩的混子</del>。</p>
+<p>简单来说，我是一个兴趣爱好广泛但没有一项特别突出的<strong>仰卧起坐选手</strong>。目前代码能力很弱，自学了一点Java，上学期为了搭前端学了点HTML，CSS，JS，Python这学期在接触。总之，还需要补很多很多东西😥<br><img src="/2023/09/06/1/%E8%A1%A8%E6%83%852.jpg"></p>
+<h1 id="Achievements"><a href="#Achievements" class="headerlink" title="Achievements"></a>Achievements</h1><p>目前还是吃老本。本科的时候能拿奖学金抚慰一下期末复习，算是一个品学兼优的好孩子<del>爱玩的混子</del>。</p>
 <blockquote>
-<p>学习<br>以前挺认真卷学习的，拿了保研资格（又放弃了，感觉不是自己想要的。）<br><em>其实我觉得我只是会考试，并不能说会日语…</em></p>
+<p>学习</p>
 </blockquote>
+<p>以前挺认真卷学习的，拿了保研资格（又放弃了，感觉不是自己想要的。）<br><em>其实我觉得我只是会考试，并不能说会日语…</em></p>
 <blockquote>
-<p>实习工作<br>原来走的是运营&#x2F;市场方向，有过3段相关实习。一段互联网，一段地产（anyway已经倒闭了），一段咨询。<br>属于是行业“冥”灯，走什么方向什么方向就会没落hhh。（计算机的同学们你们小心了哦，狗头.jpg）<br><a href="../imgs/Shanghai.jpg#pic_center">3月份的静安公园</a><br>在上海的实习印象尤为深刻，那段日子特别的有趣神奇。被迫在出租房里蹲守抢菜，一个能够用已知食材生成多样菜谱转跳b站教程的web让我觉得计算机真实用哇，促使我转码。<br><a href="../imgs/cooking.jpg#pic_center"></a><br><a href="../imgs/cooking1.jpg#pic_center"></a><br><a href="../imgs/cooking2.jpg#pic_center"></a><br><a href="../imgs/cooking3.jpg#pic_center"></a></p>
+<p>实习工作</p>
 </blockquote>
+<p>原来走的是运营&#x2F;市场方向，有过3段相关实习。一段互联网，一段地产（anyway已经倒闭了），一段咨询。<br>属于是行业“冥”灯，走什么方向什么方向就会没落hhh。（计算机的同学们你们小心了哦，狗头.jpg）<br><img src="/2023/09/06/1/Shanghai.jpg#pic_center" alt="3月份的静安公园"><br>在上海的实习印象尤为深刻，那段日子特别的有趣神奇。被迫在出租房里蹲守抢菜，一个能够用已知食材生成多样菜谱转跳b站教程的web让我觉得计算机真实用哇，促使我转码。<br><img src="/2023/09/06/1/cooking.jpg#pic_center"><br><img src="/2023/09/06/1/cooking1.jpg#pic_center"><br><img src="/2023/09/06/1/cooking2.jpg#pic_center"><br><img src="/2023/09/06/1/cooking3.jpg#pic_center"></p>
 <blockquote>
-<p>社团活动<br>校合唱团呆了两年<br>志愿者活动<br>各种大大小小的比赛<br>在校工会写了好多篇微信推文赚点小外快<br><a href="../imgs/culturalfestival.jpg#pic_center">文化节</a><br><a href="../imgs/volunteer.jpg#pic_center">618海创</a></p>
+<p>社团活动</p>
 </blockquote>
+<p>校合唱团呆了两年<br>志愿者活动<br>各种大大小小的比赛<br>在校工会写了好多篇微信推文赚点小外快<br><img src="/2023/09/06/1/culturalfestival.jpg#pic_center" alt="文化节"><br><img src="/2023/09/06/1/volunteer.jpg#pic_center" alt="618海创"></p>
 <h1 id="Future-plan"><a href="#Future-plan" class="headerlink" title="Future plan"></a>Future plan</h1><blockquote>
 <p>After all, tomorrow is another day.</p>
 </blockquote>
 <p>虽然比同学们多活了2、3年，但依旧不知道自己想要什么，反而觉得人越长大越迷茫。<br>本科做了很多规划，但却因为疫情&#x2F;经济&#x2F;个人经历经常做出改变和调整。现在更加坚信一句话：<strong>人生是旷野</strong>🌄<br>目前的计划是：尽所能刷高绩点，有机会的话去读个水硕，看看世界。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2023/09/08/test/</url>
+    <content><![CDATA[<p><img src="/2023/09/08/test/pic.png" alt="test"></p>
 ]]></content>
   </entry>
 </search>
